@@ -50,12 +50,12 @@ h2 {
 	text-transform:uppercase;
 	font-weight:bold;
 }
-h2::after {
+/* h2::after {
 	content:" ";
 	border:solid 1px #CCCCCC;
 	display:block;
 	width:65px;
-	margin:20px auto;
+	margin:20px auto; */
 }
 h6 {
 	font-size:15px;
@@ -483,6 +483,42 @@ table {
 	text-transform: uppercase;
 }
 .hero p {
+	letter-spacing:1px;
+	color:#fff;
+	font-size: 15px;
+}
+.resume {
+	background: url('../img/resume.png') right bottom no-repeat;
+
+	background-size:contain;
+	padding:100px 0 100px 0;
+	height: 650px;
+	
+	background-color: #fbfbfb;
+}
+.resume h1 {
+	font-size: 120px;
+	letter-spacing: -8px;
+	margin: 0;
+	font-weight: 600;
+	line-height: 95px;
+	text-transform: uppercase;
+}
+.resume h1 span {
+	color:#afaaaa;
+	/* display:inline-block; */
+}
+.resume h3 {
+	font-size: 20px;
+	margin:0;
+	padding:0;
+	opacity:0.5;
+	color: #E04343;
+	letter-spacing: 18px;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+.resume p {
 	letter-spacing:1px;
 	color:#fff;
 	font-size: 15px;

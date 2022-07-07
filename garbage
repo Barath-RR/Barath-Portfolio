@@ -1,0 +1,49 @@
+<div class="degree-card">
+    <div class="react-reveal card-img" 
+    style="animation-fill-mode: both; 
+    backface-visibility: visible; 
+    animation-duration: 2000ms;
+     animation-delay: 0ms; 
+     animation-iteration-count: 1; 
+     opacity: 1; 
+     animation-name: 
+     react-reveal-738510400603638-4;">
+     <img src="/img/skcet.png" 
+     alt="SKCET" 
+     style="max-width: 100%; 
+     max-height: 100%; 
+     transform: scale(0.5, 0.5);">
+     </div>
+     
+     <div class="react-reveal card-body" 
+     style="animation-fill-mode: both; 
+     animation-duration: 2000ms; 
+     animation-delay: 0ms; 
+     animation-iteration-count: 1; 
+     opacity: 1; 
+     animation-name: 
+     react-reveal-738510400603638-5;">
+     
+     <div class="body-header" 
+     style="background-color: rgba(14, 107, 168, 0.467);">
+     <div class="body-header-title">
+        <h2 class="card-title" style="color: rgb(2, 24, 80);">Sri Krishna College Of Engineering And Technology</h2>
+        <h3 class="card-subtitle" style="color: rgb(2, 24, 80);">B.E Computer Science</h3>
+    </div>
+    <div class="body-header-duration">
+        <h3 class="duration" style="color: rgb(2, 24, 80);">2019 - 2023</h3>
+    </div>
+</div>
+<div classname="body-content">
+    <p class="content-list" style="color: rgb(2, 24, 80);">⚡ Experience in fundamental subjects like DS, Algorithms, DBMS, OS, CA, AI etc.</p>
+    <p class="content-list" style="color: rgb(2, 24, 80);">⚡ Learnt full stack development and other technologies by self learning.</p>
+    <p class="content-list" style="color: rgb(2, 24, 80);">⚡ Successfully passed some certifications that pleased my interests.</p>
+    <a href="http://skcet.ac.in" target="_blank" rel="noopener noreferrer">
+        <div class="visit-btn" style="background-color: rgba(14, 107, 168, 0.467);">
+            <p class="btn" style="color: rgb(2, 24, 80);">Visit Website
+            </p>
+        </div>
+    </a>
+</div>
+</div>
+</div>
