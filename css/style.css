@@ -523,6 +523,42 @@ table {
 	color:#fff;
 	font-size: 15px;
 }
+.project {
+	background: url('../img/project.png') right bottom no-repeat;
+
+	background-size:contain;
+	padding:100px 0 100px 0;
+    height: 600px; 
+	margin-right: 7%;
+	background-color: #fbfbfb;
+}
+.project h1 {
+	font-size: 120px;
+	letter-spacing: -8px;
+	margin: 0;
+	font-weight: 600;
+	line-height: 95px;
+	text-transform: uppercase;
+}
+.project h1 span {
+	color:#afaaaa;
+	/* display:inline-block; */
+}
+.project h3 {
+	font-size: 20px;
+	margin:0;
+	padding:0;
+	opacity:0.5;
+	color: #E04343;
+	letter-spacing: 18px;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+.project p {
+	letter-spacing:1px;
+	color:#fff;
+	font-size: 15px;
+}
 /* Boucing Arrow Animation */
 @keyframes arrowbounce {
 	from {
