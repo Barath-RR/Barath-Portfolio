@@ -559,6 +559,43 @@ table {
 	color:#fff;
 	font-size: 15px;
 }
+.achievements {
+	background: url('../img/achivements.jpg') right bottom no-repeat;
+
+	background-size:contain;
+	padding:100px 0 100px 0;
+    height: 500px; 
+	margin-right: 9%;
+	
+	background-color: #ffffff;
+}
+.achievements h1 {
+	font-size: 100px;
+	letter-spacing: -8px;
+	margin: 0;
+	font-weight: 600;
+	line-height: 95px;
+	text-transform: uppercase;
+}
+.achievements h1 span {
+	color:#afaaaa;
+	/* display:inline-block; */
+}
+.achievements h3 {
+	font-size: 20px;
+	margin:0;
+	padding:0;
+	opacity:0.5;
+	color: #E04343;
+	letter-spacing: 18px;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+.achievements p {
+	letter-spacing:1px;
+	color:#fff;
+	font-size: 15px;
+}
 /* Boucing Arrow Animation */
 @keyframes arrowbounce {
 	from {
